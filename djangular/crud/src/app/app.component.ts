@@ -24,9 +24,7 @@ export class AppComponent {
                 data.results;
             },
             error => {
-                console.log => {
                     console.log(error)
-                }
             }
         )
     }
